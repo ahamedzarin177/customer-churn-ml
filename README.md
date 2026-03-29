@@ -1,4 +1,4 @@
-# Customer Churn Prediction using Machine Learning
+# Customer Churn Prediction using Machine Learning | Python & Scikit-learn
 
 ## Overview
 This project develops a machine learning model to predict customer churn, helping businesses improve retention and reduce revenue loss through data-driven insights. It applies a complete ML pipeline, including data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and evaluation.
@@ -15,9 +15,11 @@ This project develops a machine learning model to predict customer churn, helpin
 - F1-score
 
 ## Result
-Among the implemented models, Random Forest achieved the best performance with approximately **78% accuracy**.
+✅ Best Model: Random Forest  
+📊 Accuracy: ~78%    
 
 ## Visualizations
+
 ### Confusion Matrix
 ![Confusion Matrix](images/confusion-matrix.png)
 
